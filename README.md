@@ -1,4 +1,4 @@
-### Kia Ora (Hello), I’m Fred 🤙🏽 ![giphy@18](https://user-images.githubusercontent.com/107820695/201573252-edd699d4-441b-4e3f-900f-c96aa9d93491.png)
+### Kia ora (Hello), Ko Fred ahau (I’m Fred) 🤙🏽 ![giphy@18](https://user-images.githubusercontent.com/107820695/201573252-edd699d4-441b-4e3f-900f-c96aa9d93491.png)
 - 👨🏾‍💻 I’m a developer | keen learner & recent graduate of [Dev Academy Aoetearoa](https://www.devacademy.co.nz) based in Tamaki Makauraru, Aotearoa (Auckland, New Zealand)
 - 📖 I’m currently learning [Typescript][typescript] & striving to improve at [CSS][CSS] , [React][react]
 <!-- - 🧐 I'm interested in... -->
